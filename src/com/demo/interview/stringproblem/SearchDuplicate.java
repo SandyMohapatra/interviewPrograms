@@ -1,4 +1,4 @@
-package com.demo.interview;
+package com.demo.interview.stringproblem;
 
 import java.util.ArrayList;
 import java.util.Arrays;
